@@ -1,4 +1,3 @@
-import numpy
-
-
-print(numpy.random.randint(3))
+import numpy as np
+import pandas as pd
+from matplotlib import pyplot as plt
